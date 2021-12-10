@@ -10,19 +10,20 @@ Imagens:
 
 Portal da Gama
 
-![PortalDaGama](./img/2)
+![PortalDaGama](/img/2)
 
 Portal Code
 
-![PortalCode](./img/1)
+![PortalCode](/img/1)
 
 Video do funcionamento
 
-![Video](https://youtu.be/lY1p5mo5l0Q)
+[Video](https://youtu.be/lY1p5mo5l0Q)
 
 # To Do
 
 [ ] Melhora das boas práticas do CSS
+
 [ ] Adicionar ico
 [ ] Salvar as imagens utilizadas
 [ ] Reponsividade
