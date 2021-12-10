@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script src="https://kit.fontawesome.com/fa94398283.js" crossorigin="anonymous"></script>
+    <title>Portal Code Academy</title>
+</head>
+<body>
+    <div class="container" id="container">
+        <div class="form-container sign-up-container">
+            <form>
+                <h1>Criar conta</h1>
+                <div class="social-container">
+                    <a href="#" class="social"><i class="fab fa-facebook"></i></a>
+                    <a href="#" class="social"><i class="fab fa-linkedin"></i></a>
+                    <a href="#" class="social"><i class="fab fa-github"></i></a>
+                </div>
+                <!--Verificar o nome do aplicativo-->
+                <span>Criar conta na Code Academy</span>
+                <input type="text" placeholder="Nome" />
+                <input type="email" placeholder="E-mail" />
+                <input type="password" placeholder="Senha" />
+                <button>Criar conta</button>
+            </form>
+        </div>
+        <div class="form-container sign-in-container">
+            <form>
+                <h1>Acessar</h1>
+                <div class="social-container">
+                    <a href="#" class="social"><i class="fab fa-facebook"></i></a>
+                    <a href="#" class="social"><i class="fab fa-linkedin"></i></a>
+                    <a href="#" class="social"><i class="fab fa-github"></i></a>
+                </div>
+                <span>Você já tem conta ?</span>
+                <input type="email" placeholder="E-mail" />
+                <input type="password" placeholder="Senha" />
+                <button>Login</button>
+            </form>
+        </div>
+        <div class="overlay-container">
+            <div class="overlay">
+                <div class="overlay-panel overlay-left">
+                    <h1>Bem vindo de volta</h1>
+                    <p>Se você já participou de algum curso da Code, faça login utilizando o mesmo e-mail registrado anteriormente</p>
+                    <button class="ghost" id="signIn">Acessar</button>
+                </div>
+        <div class="overlay-panel overlay-right">
+            <h1>Aluno novo</h1>
+            <p>Se você nunca participou de nenhum curso da Code, faça o cadastro gratuitamente clicando aqui</p>
+            <button class="ghost" id="signUp">Cadastre-se</button>
+            </div>
+        </div>
+    </div>
+    </div>
+<script type="text/javascript" src="./index.js"></script>
+</body>
+</html>
