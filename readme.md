@@ -10,11 +10,11 @@ Imagens:
 
 Portal da Gama
 
-![PortalDaGama](/img/2)
+![PortalDaGama](./img/2.jpg)
 
 Portal Code
 
-![PortalCode](/img/1)
+![PortalCode](./img/1.jpg)
 
 Video do funcionamento
 
@@ -22,12 +22,15 @@ Video do funcionamento
 
 # To Do
 
-[ ] Melhora das boas práticas do CSS
+- [ ] Melhora das boas práticas do CSS
 
-[ ] Adicionar ico
-[ ] Salvar as imagens utilizadas
-[ ] Reponsividade
-[ ] Aperfeiçar o código
+- [ ] Adicionar ico
+
+- [ ] Salvar as imagens utilizadas
+
+- [ ] Reponsividade
+
+- [ ] Aperfeiçar o código
 
 
 
