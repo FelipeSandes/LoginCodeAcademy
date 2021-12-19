@@ -22,7 +22,7 @@ Video do funcionamento
 
 # To Do
 
-- [ ] Melhora das boas práticas do CSS
+- [X] Melhora das boas práticas do CSS
 
 - [ ] Adicionar ico
 
