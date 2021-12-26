@@ -24,9 +24,9 @@ Video do funcionamento
 
 - [X] Melhora das boas práticas do CSS
 
-- [ ] Adicionar ico
+- [X] Adicionar ico (favicon)
 
-- [ ] Salvar as imagens utilizadas
+- [X] Salvar as imagens utilizadas
 
 - [ ] Reponsividade
 

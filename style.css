@@ -14,6 +14,7 @@
   --preto: #000000;
   --laranja: #ff4b2b;
   --rosa: #ff416c;
+  --verde: #20b2aa;
 }
 
 body {
@@ -24,7 +25,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url(https://i.pinimg.com/originals/41/82/a9/4182a9dd330c6442c4a1fbc78274d838.png);
+  background-image: url(./img/code.png);
   background-size: cover;
 }
 
@@ -127,6 +128,7 @@ input[type="password"] {
   outline: none;
   color: var(--branco);
   font-weight: bold;
+  caret-color: var(--verde);
 }
 
 button:active {
